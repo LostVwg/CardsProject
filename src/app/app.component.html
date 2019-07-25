@@ -1,0 +1,9 @@
+<body>
+<div class="header">
+  <h4>Коллекции</h4>
+  <button class="outerButton" type="button" (click)="clickOuterButton($event)">Больше виджетов</button>
+</div>
+<app-cards *ngFor="let t of cardInfo" [info]="t"></app-cards>
+</body>
+
+

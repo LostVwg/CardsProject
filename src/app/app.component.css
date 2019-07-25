@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  left: 0px;
+  top: 0px;
+  background-color: #2b2b2b;
+  background-size: cover;
+  color: white;
+  font-family: Arial;
+}
+
+.header {
+  margin-left: 2%;
+  margin-bottom: 30px;
+}
+
+.outerButton {
+  font-family: Century Gothic;
+  border: none;
+  font-size: 12px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  padding: 8px 20px 8px;
+  border-radius: 3px;
+  box-shadow: 0 2px #2628ab;
+  background: linear-gradient(to right,#2628ab,#208cf7);
+}

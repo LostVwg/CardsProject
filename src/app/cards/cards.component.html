@@ -1,0 +1,15 @@
+<div class="cardBody">
+  <div class="images">
+    <img *ngFor="let i of info.images" src={{i}}>
+  </div>
+  <div class="container">
+    <p class="cardHeader"><b>{{ info["theme"] }}</b></p>
+    <p>Создатель: <a href="https://vk.com/lostveg">{{ info["creator"] }}</a></p>
+    <p>Отслеживают: <img class="followers" *ngFor="let k of info.followers.slice(0,5)" src={{k}}>
+          +{{info.followers.length - 5}}</p>
+  </div>
+  <form>
+    <button type='button'[ngClass]="InnerButton" (click)="clicked($event)">{{ ButtonText }}</button>
+  </form>
+</div>
+

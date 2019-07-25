@@ -1,0 +1,37 @@
+[
+  {"theme": "Adventure Time - статьи по теме",
+  "creator": "creator1",
+  "followers": ["https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+  "images" : ["https://img.icons8.com/color/96/000000/jake.png","https://img.icons8.com/color/96/000000/finn.png","https://img.icons8.com/color/96/000000/ice-king.png"]
+  },
+  {"theme": "Подборки мультфильмов",
+    "creator": "creator2",
+    "followers": ["https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/mermaid.png","https://img.icons8.com/color/96/000000/genie.png", "https://img.icons8.com/color/96/000000/woody-woodpecker.png"]
+  },
+  {"theme": "Блог о старых играх",
+    "creator": "creator3",
+    "followers": [ "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/sonic-the-hedgehog-1.png","https://img.icons8.com/color/96/000000/super-mario.png","https://img.icons8.com/color/96/000000/spyro.png"]
+  },
+  {"theme": "Игра престолов - статьи по теме",
+    "creator": "creator4",
+    "followers": ["https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/house-lannister.png","https://img.icons8.com/color/96/000000/house-stark.png","https://img.icons8.com/color/96/000000/targaryen-house.png"]
+  },
+  {"theme": "Вселенная Marvel",
+    "creator": "creator5",
+    "followers": ["https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/thanos.png","https://img.icons8.com/color/96/000000/groot.png","https://img.icons8.com/color/96/000000/thor.png"]
+  },
+  {"theme": "Подборки хорроров",
+    "creator": "creator6",
+    "followers": ["https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/pennywise.png","https://img.icons8.com/color/96/000000/freddy-krueger.png","https://img.icons8.com/color/96/000000/scream.png"]
+  },
+  {"theme": "Звездные войны - как проходили съемки",
+    "creator": "creator7",
+    "followers": ["https://img.icons8.com/color/50/000000/logan-x-men.png","https://img.icons8.com/color/48/000000/person-male.png","https://img.icons8.com/color/48/000000/old-man-skin-type-1-2.png", "https://img.icons8.com/color/48/000000/kippah.png","https://img.icons8.com/doodle/48/000000/men-age-group-3.png","https://img.icons8.com/dusk/64/000000/find-user-female.png","https://img.icons8.com/dusk/64/000000/old-woman-skin-type-6.png","https://img.icons8.com/dotty/80/000000/teenager-female.png","https://img.icons8.com/color/48/000000/ninja-head.png","https://img.icons8.com/bubbles/50/000000/frida-kahlo.png"],
+    "images" : ["https://img.icons8.com/color/96/000000/chewbacca.png","https://img.icons8.com/color/96/000000/yoda.png","https://img.icons8.com/color/96/000000/luke-skywalker.png"]
+  }
+]
